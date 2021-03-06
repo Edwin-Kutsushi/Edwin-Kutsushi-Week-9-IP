@@ -13,7 +13,7 @@ Find and deal with outliers, anomalies, and missing data within the dataset.
 Perform univariate, bivariate and multivariate analysis recording our observations.
 Performing classification using any of the Naive-Bayes algorithm.
 Challenge our solution
-# Release
+### Release
 This is the first release. Meta Team Time Data Report Distributed under the GNU General Public License v3.0. 
 See LICENSE for more information. https://github.com/Edwin-Kutsushi/Edwin-Kutsushi-Week-9-IP.git
 ### Contribution
