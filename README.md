@@ -15,7 +15,7 @@ Performing classification using any of the Naive-Bayes algorithm.
 Challenge our solution
 # Release
 This is the first release. Meta Team Time Data Report Distributed under the GNU General Public License v3.0. 
-See LICENSE for more information. https://github.com/Edwin-Kutsushi/Edwin_Kutsushi_Week8_IP.git
+See LICENSE for more information. https://github.com/Edwin-Kutsushi/Edwin-Kutsushi-Week-9-IP.git
 ### Contribution
-Contributing Fork it https://github.com/Edwin-Kutsushi/Edwin_Kutsushi_Week8_IP.git Create your feature branch (git checkout -b feature/fooBar) 
+Contributing Fork it https://github.com/Edwin-Kutsushi/Edwin-Kutsushi-Week-9-IP.git Create your feature branch (git checkout -b feature/fooBar) 
 Commit your changes (git commit -am 'Add some fooBar') Push to the branch (git push origin feature/fooBar) Create a new Pull Request
